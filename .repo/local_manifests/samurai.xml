@@ -4,7 +4,6 @@
   <project name="samurai-minhaz/proprietary_vendor_realme_samurai" path="vendor/realme/samurai" remote="github" revision="evo-14" />
   <project name="samurai-minhaz/android_kernel_realme_sm8150" path="kernel/realme/samurai" remote="github" revision="evo-14" />
 
-  <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-21" />
-
+  <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-21.0" />
   <project name="PixelOS-AOSP/device_oplus_common" path="device/oplus/common" remote="github" revision="fourteen" />
 </manifest>
