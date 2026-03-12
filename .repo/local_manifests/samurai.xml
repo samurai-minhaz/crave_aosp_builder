@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="samurai-minhaz/android_device_realme_samurai" path="device/realme/samurai" remote="github" revision="fourteen" />
-  <project name="samurai-minhaz/proprietary_vendor_realme_samurai" path="vendor/realme/samurai" remote="github" revision="fourteen" />
-  <project name="samurai-minhaz/android_kernel_realme_sm8150" path="kernel/realme/sm8150" remote="github" revision="fourteen" />
+  <project name="samurai-minhaz/android_device_realme_samurai" path="device/realme/samurai" remote="github" revision="evo-14" />
+  
+  <project name="samurai-minhaz/proprietary_vendor_realme_samurai" path="vendor/realme/samurai" remote="github" revision="evo-14" />
+
+  <project name="samurai-minhaz/android_kernel_realme_sm8150" path="kernel/realme/sm8150" remote="github" revision="evo-14" />
 </manifest>
