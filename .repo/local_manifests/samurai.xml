@@ -3,6 +3,6 @@
   <project name="samurai-minhaz/android_device_realme_samurai" path="device/realme/samurai" remote="github" revision="sixteen" />
   <project name="samurai-minhaz/proprietary_vendor_realme_samurai" path="vendor/realme/samurai" remote="github" revision="sixteen" />
   <project name="samurai-minhaz/android_kernel_realme_sm8150" path="kernel/realme/samurai" remote="github" revision="sixteen" />
-  <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-22.0" />
-  <project name="PixelOS-AOSP/device_oplus_common" path="device/oplus/common" remote="github" revision="sixteen" />
+  <project name="LineageOS/android_hardware_oplus" path="hardware/oplus" remote="github" revision="lineage-22.1" />
+  <project name="PixelOS-AOSP/device_oplus_common" path="device/oplus/common" remote="github" revision="sixteen-qpr2" />
 </manifest>
